@@ -1,77 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\PetGPS\\",
+  "WorkspaceRootPath": "C:\\Users\\Alex2\\Desktop\\PetGPS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\vista\\cugpsmaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\alex2\\desktop\\petgps\\petgps\\vista\\cugpsmaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\cugpsmaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\vista\\cugpsmaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\cugpsmaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\vista\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\vista\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\vista\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\vista\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\modelo\\csrastreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\modelo\\csrastreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\vista\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\controlador\\cllrastreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\controlador\\cllrastreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\vista\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\config\\csconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\config\\csconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\vista\\cugpsmaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\cugpsmaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\modelo\\csmascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\modelo\\csmascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\vista\\curastreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\curastreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\vista\\formextend\\frmtipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\formextend\\frmtipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\config\\gpsreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\config\\gpsreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\config\\gpsreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\vista\\formextend\\frmtipomascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\modelo\\csrastreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\modelo\\csrastreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\controlador\\cllrastreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\controlador\\cllrastreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\config\\csconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\config\\csconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\modelo\\csmascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\modelo\\csmascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\vista\\curastreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\curastreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\vista\\formextend\\frmtipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\formextend\\frmtipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\vista\\formextend\\frmtipomascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\formextend\\frmtipomascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\vista\\formextend\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\vista\\formextend\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\formextend\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\vista\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\vista\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\vista\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\vista\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\cuusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|c:\\users\\pc\\desktop\\petgps\\petgps\\vista\\cumascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|C:\\Users\\Alex2\\Desktop\\PetGPS\\petgps\\vista\\cumascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FA15C670-9ADA-487E-A416-AEA1E5C62F24}|PetGPS\\PetGPS.csproj|solutionrelative:petgps\\vista\\cumascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -82,67 +82,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "csConexion.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Config\\csConexion.cs",
-              "RelativeDocumentMoniker": "PetGPS\\Config\\csConexion.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Config\\csConexion.cs",
-              "RelativeToolTip": "PetGPS\\Config\\csConexion.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T23:33:24.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "cllRastreo.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Controlador\\cllRastreo.cs",
-              "RelativeDocumentMoniker": "PetGPS\\Controlador\\cllRastreo.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Controlador\\cllRastreo.cs",
-              "RelativeToolTip": "PetGPS\\Controlador\\cllRastreo.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAIA9wAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T23:06:23.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "csRastreo.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Modelo\\csRastreo.cs",
-              "RelativeDocumentMoniker": "PetGPS\\Modelo\\csRastreo.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Modelo\\csRastreo.cs",
-              "RelativeToolTip": "PetGPS\\Modelo\\csRastreo.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA0wBEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T23:05:31.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "csMascota.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Modelo\\csMascota.cs",
-              "RelativeDocumentMoniker": "PetGPS\\Modelo\\csMascota.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Modelo\\csMascota.cs",
-              "RelativeToolTip": "PetGPS\\Modelo\\csMascota.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T23:04:48.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "GpsReceiver.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Config\\GpsReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Config\\GpsReceiver.cs",
               "RelativeDocumentMoniker": "PetGPS\\Config\\GpsReceiver.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Config\\GpsReceiver.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Config\\GpsReceiver.cs",
               "RelativeToolTip": "PetGPS\\Config\\GpsReceiver.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,61 +99,155 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmTipoUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\FormExtend\\frmTipoUsuario.cs",
-              "RelativeDocumentMoniker": "PetGPS\\Vista\\FormExtend\\frmTipoUsuario.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\FormExtend\\frmTipoUsuario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PetGPS\\Vista\\FormExtend\\frmTipoUsuario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T21:48:28.167Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "frmTipoMascota.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\FormExtend\\frmTipoMascota.cs",
-              "RelativeDocumentMoniker": "PetGPS\\Vista\\FormExtend\\frmTipoMascota.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\FormExtend\\frmTipoMascota.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PetGPS\\Vista\\FormExtend\\frmTipoMascota.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T21:48:22.822Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Program.cs",
-              "RelativeDocumentMoniker": "PetGPS\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Program.cs",
-              "RelativeToolTip": "PetGPS\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T21:25:22.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "frmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\frmLogin.cs",
               "RelativeDocumentMoniker": "PetGPS\\Vista\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\frmLogin.cs",
               "RelativeToolTip": "PetGPS\\Vista\\frmLogin.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwCMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAvwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T21:24:25.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CUGPSMaps.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\CUGPSMaps.cs",
+              "RelativeDocumentMoniker": "PetGPS\\Vista\\CUGPSMaps.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\CUGPSMaps.cs",
+              "RelativeToolTip": "PetGPS\\Vista\\CUGPSMaps.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAiwIgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:04:05.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CUGPSMaps.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\CUGPSMaps.cs",
+              "RelativeDocumentMoniker": "PetGPS\\Vista\\CUGPSMaps.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\CUGPSMaps.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PetGPS\\Vista\\CUGPSMaps.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:58:19.151Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\frmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "PetGPS\\Vista\\frmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\frmMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PetGPS\\Vista\\frmMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:19:26.157Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\frmLogin.cs",
+              "RelativeDocumentMoniker": "PetGPS\\Vista\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PetGPS\\Vista\\frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:53:29.404Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Program.cs",
+              "RelativeDocumentMoniker": "PetGPS\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Program.cs",
+              "RelativeToolTip": "PetGPS\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:25:22.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmTipoMascota.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\FormExtend\\frmTipoMascota.cs",
+              "RelativeDocumentMoniker": "PetGPS\\Vista\\FormExtend\\frmTipoMascota.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\FormExtend\\frmTipoMascota.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\FormExtend\\frmTipoMascota.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:48:22.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmTipoUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\FormExtend\\frmTipoUsuario.cs",
+              "RelativeDocumentMoniker": "PetGPS\\Vista\\FormExtend\\frmTipoUsuario.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\FormExtend\\frmTipoUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\FormExtend\\frmTipoUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:48:28.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "csMascota.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Modelo\\csMascota.cs",
+              "RelativeDocumentMoniker": "PetGPS\\Modelo\\csMascota.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Modelo\\csMascota.cs",
+              "RelativeToolTip": "PetGPS\\Modelo\\csMascota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:04:48.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "csRastreo.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Modelo\\csRastreo.cs",
+              "RelativeDocumentMoniker": "PetGPS\\Modelo\\csRastreo.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Modelo\\csRastreo.cs",
+              "RelativeToolTip": "PetGPS\\Modelo\\csRastreo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:05:31.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cllRastreo.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Controlador\\cllRastreo.cs",
+              "RelativeDocumentMoniker": "PetGPS\\Controlador\\cllRastreo.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Controlador\\cllRastreo.cs",
+              "RelativeToolTip": "PetGPS\\Controlador\\cllRastreo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA9wAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:06:23.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "csConexion.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Config\\csConexion.cs",
+              "RelativeDocumentMoniker": "PetGPS\\Config\\csConexion.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Config\\csConexion.cs",
+              "RelativeToolTip": "PetGPS\\Config\\csConexion.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:33:24.992Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
               "Title": "frmMenuPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\frmMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\frmMenuPrincipal.cs",
               "RelativeDocumentMoniker": "PetGPS\\Vista\\frmMenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\frmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\frmMenuPrincipal.cs",
               "RelativeToolTip": "PetGPS\\Vista\\frmMenuPrincipal.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAIA0wBoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -214,100 +256,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmMenuPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\frmMenuPrincipal.cs",
-              "RelativeDocumentMoniker": "PetGPS\\Vista\\frmMenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\frmMenuPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PetGPS\\Vista\\frmMenuPrincipal.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T21:19:26.157Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CUGPSMaps.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\CUGPSMaps.cs",
-              "RelativeDocumentMoniker": "PetGPS\\Vista\\CUGPSMaps.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\CUGPSMaps.cs",
-              "RelativeToolTip": "PetGPS\\Vista\\CUGPSMaps.cs",
-              "ViewState": "AgIAADcBAAAAAAAAAADwv0cBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T21:04:05.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CUGPSMaps.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\CUGPSMaps.cs",
-              "RelativeDocumentMoniker": "PetGPS\\Vista\\CUGPSMaps.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\CUGPSMaps.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PetGPS\\Vista\\CUGPSMaps.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T20:58:19.151Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
               "Title": "CUUsuarios.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\CUUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\CUUsuarios.cs",
               "RelativeDocumentMoniker": "PetGPS\\Vista\\CUUsuarios.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\CUUsuarios.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PetGPS\\Vista\\CUUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\CUUsuarios.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T20:58:17.149Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-04-14T20:58:17.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CURastreo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\CURastreo.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\CURastreo.cs",
               "RelativeDocumentMoniker": "PetGPS\\Vista\\CURastreo.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\CURastreo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PetGPS\\Vista\\CURastreo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\CURastreo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T20:58:01.79Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-04-14T20:58:01.79Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "CUMascota.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\CUMascota.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\CUMascota.cs",
               "RelativeDocumentMoniker": "PetGPS\\Vista\\CUMascota.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\CUMascota.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PetGPS\\Vista\\CUMascota.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\CUMascota.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T20:58:00.699Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-04-14T20:58:00.699Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "frmRegistrarse.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\FormExtend\\frmRegistrarse.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Desktop\\PetGPS\\PetGPS\\Vista\\FormExtend\\frmRegistrarse.cs",
               "RelativeDocumentMoniker": "PetGPS\\Vista\\FormExtend\\frmRegistrarse.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\FormExtend\\frmRegistrarse.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PetGPS\\Vista\\FormExtend\\frmRegistrarse.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\FormExtend\\frmRegistrarse.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T20:56:38.493Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\frmLogin.cs",
-              "RelativeDocumentMoniker": "PetGPS\\Vista\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\PetGPS\\PetGPS\\Vista\\frmLogin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PetGPS\\Vista\\frmLogin.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T20:53:29.404Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-04-14T20:56:38.493Z"
             }
           ]
         }

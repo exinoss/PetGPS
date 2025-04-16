@@ -133,29 +133,7 @@ namespace PetGPS.Vista
             btnHome.Enabled = true;
         }
         GpsReceiver receptor = new GpsReceiver();
-        private void ConectarESP()
-        {
-            receptor.OnGpsDataReceived += (lat, lon) =>
-            {
-                Invoke(new Action(() =>
-                {
-                    lbLatitud.Text = lat;
-                    lbLongitud.Text = lon;
-                    MostrarUbicacionDesdeTextBox(); // Actualizar mapa automáticamente
-                    CalcularDistancia();
-                }));
-            };
-
-            Task.Run(() =>
-            {
-                receptor.Conectar("192.168.100.200", 5000);
-                Invoke(new Action(() =>
-                {
-                    estadoConexion = receptor.EstaConectado ? true : false;
-                    Console.WriteLine("Estado conexion: "+estadoConexion);
-                }));
-            });
-        }
+      
         bool estadoConexion;
         private void MostrarUbicacionDesdeTextBox()
         {
@@ -282,6 +260,11 @@ namespace PetGPS.Vista
 
         }
 
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
         private void GuardarHomeDesdeGPS(string lat, string lon)
         {
             if (primeraLecturaHome) return;
@@ -294,18 +277,7 @@ namespace PetGPS.Vista
                 {
                     latitudRef = latH;
                     longitudRef = lonH;
-                    /*
-                    // Guardar en la BD
-                    cllRastreo rastreo = new cllRastreo
-                    {
-                        fecha_hora = DateTime.Now,
-                        latitud = lat,
-                        longitud = lon,
-                        ID_dispositivo = 1,
-                        Rango = rango
-                    };
-                    rastreo.Insertar();
-                    */
+                  
                     // Marcador azul en el mapa
                     PointLatLng punto = new PointLatLng(latitudRef, longitudRef);
                     marcadorHome = new GMarkerGoogle(punto, GMarkerGoogleType.blue_dot);

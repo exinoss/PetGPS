@@ -52,19 +52,17 @@
             this.panel1.Controls.Add(this.btnCerrar);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(409, 49);
+            this.panel1.Size = new System.Drawing.Size(307, 40);
             this.panel1.TabIndex = 0;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Arial Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(13, 9);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Location = new System.Drawing.Point(10, 7);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(214, 28);
+            this.label3.Size = new System.Drawing.Size(168, 23);
             this.label3.TabIndex = 8;
             this.label3.Text = "INICIO DE SESIÓN";
             // 
@@ -73,10 +71,9 @@
             this.btnCerrar.FlatAppearance.BorderSize = 0;
             this.btnCerrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCerrar.Image = ((System.Drawing.Image)(resources.GetObject("btnCerrar.Image")));
-            this.btnCerrar.Location = new System.Drawing.Point(361, 4);
-            this.btnCerrar.Margin = new System.Windows.Forms.Padding(4);
+            this.btnCerrar.Location = new System.Drawing.Point(271, 3);
             this.btnCerrar.Name = "btnCerrar";
-            this.btnCerrar.Size = new System.Drawing.Size(44, 41);
+            this.btnCerrar.Size = new System.Drawing.Size(33, 33);
             this.btnCerrar.TabIndex = 0;
             this.btnCerrar.UseVisualStyleBackColor = true;
             this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
@@ -85,10 +82,9 @@
             // 
             this.txtIngresar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(248)))), ((int)(((byte)(238)))));
             this.txtIngresar.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtIngresar.Location = new System.Drawing.Point(67, 320);
-            this.txtIngresar.Margin = new System.Windows.Forms.Padding(4);
+            this.txtIngresar.Location = new System.Drawing.Point(50, 260);
             this.txtIngresar.Name = "txtIngresar";
-            this.txtIngresar.Size = new System.Drawing.Size(275, 47);
+            this.txtIngresar.Size = new System.Drawing.Size(206, 38);
             this.txtIngresar.TabIndex = 1;
             this.txtIngresar.Text = "Ingresar";
             this.txtIngresar.UseVisualStyleBackColor = false;
@@ -100,20 +96,18 @@
             this.panel2.Controls.Add(this.label5);
             this.panel2.Controls.Add(this.label4);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel2.Location = new System.Drawing.Point(0, 467);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4);
+            this.panel2.Location = new System.Drawing.Point(0, 380);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(409, 57);
+            this.panel2.Size = new System.Drawing.Size(307, 46);
             this.panel2.TabIndex = 1;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(286, 15);
-            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Location = new System.Drawing.Point(214, 12);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(110, 24);
+            this.label5.Size = new System.Drawing.Size(94, 19);
             this.label5.TabIndex = 10;
             this.label5.Text = "UNIANDES";
             // 
@@ -121,30 +115,27 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(13, 15);
-            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Location = new System.Drawing.Point(10, 12);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(103, 24);
+            this.label4.Size = new System.Drawing.Size(84, 19);
             this.label4.TabIndex = 9;
             this.label4.Text = "@PetGPS";
             // 
             // txtUsuario
             // 
             this.txtUsuario.Font = new System.Drawing.Font("Arial Narrow", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtUsuario.Location = new System.Drawing.Point(67, 137);
-            this.txtUsuario.Margin = new System.Windows.Forms.Padding(4);
+            this.txtUsuario.Location = new System.Drawing.Point(50, 111);
             this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(273, 29);
+            this.txtUsuario.Size = new System.Drawing.Size(206, 25);
             this.txtUsuario.TabIndex = 3;
             // 
             // btnRegistrarse
             // 
             this.btnRegistrarse.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(127)))), ((int)(((byte)(8)))));
             this.btnRegistrarse.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRegistrarse.Location = new System.Drawing.Point(112, 374);
-            this.btnRegistrarse.Margin = new System.Windows.Forms.Padding(4);
+            this.btnRegistrarse.Location = new System.Drawing.Point(84, 304);
             this.btnRegistrarse.Name = "btnRegistrarse";
-            this.btnRegistrarse.Size = new System.Drawing.Size(189, 49);
+            this.btnRegistrarse.Size = new System.Drawing.Size(142, 40);
             this.btnRegistrarse.TabIndex = 4;
             this.btnRegistrarse.Text = "Registrarse";
             this.btnRegistrarse.UseVisualStyleBackColor = false;
@@ -152,10 +143,9 @@
             // txtContrasenia
             // 
             this.txtContrasenia.Font = new System.Drawing.Font("Arial Narrow", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtContrasenia.Location = new System.Drawing.Point(67, 230);
-            this.txtContrasenia.Margin = new System.Windows.Forms.Padding(4);
+            this.txtContrasenia.Location = new System.Drawing.Point(50, 187);
             this.txtContrasenia.Name = "txtContrasenia";
-            this.txtContrasenia.Size = new System.Drawing.Size(273, 29);
+            this.txtContrasenia.Size = new System.Drawing.Size(206, 25);
             this.txtContrasenia.TabIndex = 5;
             this.txtContrasenia.UseSystemPasswordChar = true;
             // 
@@ -163,10 +153,9 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(61, 91);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(46, 74);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(85, 24);
+            this.label1.Size = new System.Drawing.Size(68, 20);
             this.label1.TabIndex = 6;
             this.label1.Text = "USUARIO";
             // 
@@ -174,18 +163,17 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(61, 191);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(46, 155);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(125, 24);
+            this.label2.Size = new System.Drawing.Size(99, 20);
             this.label2.TabIndex = 7;
             this.label2.Text = "CONTRASEÑA";
             // 
             // frmLogin
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(409, 524);
+            this.ClientSize = new System.Drawing.Size(307, 426);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtContrasenia);
@@ -195,11 +183,11 @@
             this.Controls.Add(this.txtIngresar);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4);
-            this.MaximumSize = new System.Drawing.Size(409, 524);
-            this.MinimumSize = new System.Drawing.Size(409, 524);
+            this.MaximumSize = new System.Drawing.Size(307, 426);
+            this.MinimumSize = new System.Drawing.Size(307, 426);
             this.Name = "frmLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Load += new System.EventHandler(this.frmLogin_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);
