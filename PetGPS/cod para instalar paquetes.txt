@@ -1,0 +1,1 @@
+NuGet\Install-Package GMap.NET.WinForms -Version 2.1.7
